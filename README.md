@@ -36,5 +36,3 @@ Functionality lssue list
 12.Reset all is not clearing these fields:-Aadhar No.,Test report,OTP and uploaded photo 
 13.Validation message are not displaying for consumer no and password field on Login page 
 14.on Registration form,only 2 fields are in 2 laguages,need to maintain consistancy for all foms and all fields
-
-
